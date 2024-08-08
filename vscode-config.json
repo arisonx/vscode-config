@@ -1,0 +1,40 @@
+{
+  "symbols.hidesExplorerArrows": false,
+  "tabnine.experimentalAutoImports": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "symbols",
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "'JetBrains Mono NL Medium'",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.cursorWidth": 4,
+  "editor.cursorBlinking": "blink",
+  "editor.cursorStyle": "line",
+  "editor.lineHeight": 24,
+  "editor.fontSize": 14,
+  "editor.wordWrap": "on",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.compactFolders": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.autofetch": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.indentSize": "tabSize",
+  "[css]": {
+    "editor.defaultFormatter": "stylelint.vscode-stylelint"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "One Dark Darker with Border",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
